@@ -1,0 +1,5 @@
+{ 
+    "courtN" : "ศาลจังหวัดสมุทรสงคราม",
+    "dbA" : "D:/DATA2Agenct/access2search.mdb",
+    "driverA" : "odbc:Driver={Microsoft Access Driver (*.mdb)};"
+}
